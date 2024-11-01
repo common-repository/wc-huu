@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Huu WP for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-08 10:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: wc-huu"
+
+#: wc-huu-setup.php:76
+msgid "Active the button of Whatsapp in Single Product Page."
+msgstr ""
+
+#: wc-huu-setup.php:83
+msgid "Active Whatsapp icon on Loop of Product."
+msgstr ""
+
+#: wc-huu-setup.php:47
+msgid "Click Here"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://hugocalixto.com.br/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hugo Calixto"
+msgstr ""
+
+#. Name of the plugin
+msgid "Huu WP for WooCommerce"
+msgstr ""
+
+#: wc-huu.php:86 wc-huu.php:99
+msgid "Interest in"
+msgstr ""
+
+#: wc-huu-setup.php:61
+msgid "Number of whatsapp"
+msgstr ""
+
+#: wc-huu.php:86 wc-huu.php:99
+msgid "product"
+msgstr ""
+
+#: wc-huu.php:53
+msgid "Settings"
+msgstr ""
+
+#: wc-huu-setup.php:11
+msgid "Setup Huu WP for WooCommerce"
+msgstr ""
+
+#. slug do menu principal
+#: wc-huu.php:38 wc-huu.php:39
+msgid "Setup Huu WP Woo"
+msgstr ""
+
+#: wc-huu-setup.php:17
+msgid "Sorry, has a error. Try again."
+msgstr ""
+
+#: wc-huu-setup.php:47
+msgid "Support"
+msgstr ""
+
+#: wc-huu-setup.php:68
+msgid "Text to button"
+msgstr ""
+
+#. Description of the plugin
+msgid "To show Whatsapp button in Loop Products and/or Single Product Page"
+msgstr ""
+
+#: wc-huu.php:118
+msgid "To use Huu WP for WooCommerce you need to install WooCommerce."
+msgstr ""
+
+#: wc-huu-setup.php:69
+msgid "type a text to whatsapp button Ex.: Consulta por Whatsapp"
+msgstr ""
+
+#: wc-huu-setup.php:62
+msgid "type the whatsapp number XXYY123456789. Do not need +"
+msgstr ""
+
+#: wc-huu-setup.php:90
+msgid "Use icon with text to Loop of Product."
+msgstr ""

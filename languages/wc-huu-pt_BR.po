@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Huu WP for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-09 17:39+0000\n"
+"PO-Revision-Date: 2021-06-10 19:31+0000\n"
+"Last-Translator: Hugo santos\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wc-huu"
+
+#: wc-huu-setup.php:76
+#| msgid "Active the button of Whatsapp in Single Product Page"
+msgid "Active the button of Whatsapp in Single Product Page."
+msgstr "Ative o botão do WhatsApp na página de produto detalhado"
+
+#: wc-huu-setup.php:83
+#| msgid "Active Whatsapp icon on Loop of Product"
+msgid "Active Whatsapp icon on Loop of Product."
+msgstr "Ative o botão do WhatsApp no loop de produtos"
+
+#: wc-huu-setup.php:47
+msgid "Click Here"
+msgstr "Clique Aqui"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://hugocalixto.com.br/"
+msgstr "https://hugocalixto.com.br/"
+
+#. Author of the plugin
+msgid "Hugo Calixto"
+msgstr "Hugo Calixto"
+
+#. Name of the plugin
+msgid "Huu WP for WooCommerce"
+msgstr "Huu WP para WooCommerce"
+
+#: wc-huu.php:86 wc-huu.php:99
+msgid "Interest in"
+msgstr "Interessado em"
+
+#: wc-huu-setup.php:61
+msgid "Number of whatsapp"
+msgstr "Numero do whatsapp"
+
+#: wc-huu.php:86 wc-huu.php:99
+msgid "product"
+msgstr "produto"
+
+#: wc-huu.php:53
+msgid "Settings"
+msgstr "Configurações"
+
+#: wc-huu-setup.php:11
+msgid "Setup Huu WP for WooCommerce"
+msgstr "Setup Huu WP para WooCommerce"
+
+#. slug do menu principal
+#: wc-huu.php:38 wc-huu.php:39
+#| msgid "Setup Huu WP"
+msgid "Setup Huu WP Woo"
+msgstr "Setup Huu WP Woo"
+
+#: wc-huu-setup.php:17
+msgid "Sorry, has a error. Try again."
+msgstr "Desculpe, tem um erro. Tente novamente."
+
+#: wc-huu-setup.php:47
+msgid "Support"
+msgstr "Suporte"
+
+#: wc-huu-setup.php:68
+msgid "Text to button"
+msgstr "Texto para o botão"
+
+#. Description of the plugin
+msgid "To show Whatsapp button in Loop Products and/or Single Product Page"
+msgstr ""
+"Para exibir o botão do Whatsapp no loop do produtos e/ou na página de detalhe"
+
+#: wc-huu.php:118
+msgid "To use Huu WP for WooCommerce you need to install WooCommerce."
+msgstr ""
+"Para usar Huu WP para WooCommerce, você precisa instalar o WooCommerce."
+
+#: wc-huu-setup.php:69
+msgid "type a text to whatsapp button Ex.: Consulta por Whatsapp"
+msgstr "digite um texto no botão do Whatsapp Ex.: Consulta pelo Whatsapp"
+
+#: wc-huu-setup.php:62
+msgid "type the whatsapp number XXYY123456789. Do not need +"
+msgstr "digite o número do WhatsApp XXYY123456789. Não precisa de +"
+
+#: wc-huu-setup.php:90
+#| msgid "Use icon with text to Loop of Product"
+msgid "Use icon with text to Loop of Product."
+msgstr "Usar ícone com texto no loop de produtos"
